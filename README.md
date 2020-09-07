@@ -4,8 +4,6 @@ Projet PHP MySQL, Session Utilisateur & Admin, Export de la facture en PDF...
 
 
 # Projet Fact€Web
-# Les captures écrans https://github.com/Lud972vic/Afpa-Fact-Web/issues/1#issue-683946713
-
 
 # Partie utilisateur :
 ![user_01](https://user-images.githubusercontent.com/52196263/90950989-0bd4bb00-e457-11ea-907f-7e544a680ad2.PNG)
